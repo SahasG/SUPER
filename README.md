@@ -42,4 +42,4 @@ an older save file by going back through the stack.
 
 # Class Summary
 
-![UML Diagram](/images/UML.jpg)
+![UML Diagram](/UML.png)
