@@ -40,3 +40,6 @@ progress and continue from the save file. This can be stored within a stack so t
 point. A stack is very efficient for this as the ability to access the most recent data helps in this case as the user can either start from the latest save file or 
 an older save file by going back through the stack.
 
+# Class Summary
+
+![UML Diagram](/images/UML.jpg)
